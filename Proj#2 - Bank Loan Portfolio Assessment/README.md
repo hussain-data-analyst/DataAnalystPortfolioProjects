@@ -25,7 +25,7 @@ The dataset includes the following features:
 ## Dashboards and KPIs
 
 ### 1. Dashboard 1: Summary
-
+![Dashboard 1 Summary](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Dashboard%20Summary.png)
 This dashboard provides an overview of key metrics:
 
 *   **Total Loan Applications:** The total number of applications and Month-to-Date (MTD) comparisons.
