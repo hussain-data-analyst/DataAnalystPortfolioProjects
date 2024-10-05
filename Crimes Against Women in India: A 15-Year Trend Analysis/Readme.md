@@ -65,15 +65,23 @@ The dataset was sourced from [data.gov.in](https://data.gov.in) and contains cri
 
 ## Key Insights
 
-* **Overall Crime Trends**: Total crimes increased from 2001 to 2014 but showed a decline in 2015.
-* **Prevalence of Crimes**: 
-  * **Cruelty by Husband and His Relatives** had the highest number of cases, showing an increasing trend but decreased after 2014.
-  * **Assault on Women with Intent to Outrage Modesty** showed a significant increase between 2012 and 2014.
-  * **Kidnapping and Abduction** and **Rape** cases were on a consistent rise but also decreased after 2014.
-  * **Dowry Deaths** and **Insult to Modesty of Women** remained relatively constant with minor variances.
-  * **Importation of Girls** cases remained constant over the years.
-* **Correlations**: Rape and Assault on Women with Intent to Outrage Modesty showed high correlation.
-* **Top 10 States with the Highest Crimes**: 
+### Overall Crime Trends
+* Total crimes increased from 2001 to 2014 but showed a decline in 2015.
+* **Cruelty by Husband and His Relatives** had the highest number of cases, showing an increasing trend but decreased after 2014.
+* **Assault on Women with Intent to Outrage Modesty** showed a significant increase between 2012 and 2014.
+* **Kidnapping and Abduction** and **Rape** cases were on a consistent rise but also decreased after 2014.
+* **Dowry Deaths** and **Insult to Modesty of Women** remained relatively constant with minor variances.
+* **Importation of Girls** cases remained constant over the years.
+
+### Correlation Insights (From Correlation Matrix)
+* **Rape and Assault on Women with Intent to Outrage Modesty** are highly correlated (**0.899**), indicating that states with high rape cases also tend to have high assault cases.
+* **Kidnapping & Abduction** shows strong correlations with **Rape** (**0.723**) and **Dowry Deaths** (**0.860**), implying these crimes often occur in regions where these crimes are already prevalent.
+* **Cruelty by Husband or His Relatives** is strongly correlated with **Total Crimes** (**0.930**), making it a significant contributor to overall crime rates.
+* **Insult to Modesty of Women** and **Assault on Women with Intent to Outrage Modesty** are moderately correlated (**0.641**), suggesting that these crimes frequently occur together.
+* **Dowry Deaths** and **Kidnapping & Abduction** are also highly correlated (**0.860**), indicating a possible link in regions where these crimes are reported.
+* **Importation of Girls** has a weak correlation with other crimes, indicating that this crime type is relatively isolated from other forms of violence against women.
+
+### Top 10 States with the Highest Crimes  
   1. Uttar Pradesh  
   2. Andhra Pradesh  
   3. West Bengal  
@@ -84,7 +92,8 @@ The dataset was sourced from [data.gov.in](https://data.gov.in) and contains cri
   8. Delhi  
   9. Kerala  
   10. Odisha  
-* **Top 10 States/UTs with the Least Crimes**:  
+
+### Top 10 States/UTs with the Least Crimes  
   1. Meghalaya  
   2. Goa  
   3. Mizoram  
@@ -95,7 +104,8 @@ The dataset was sourced from [data.gov.in](https://data.gov.in) and contains cri
   8. Dadra & Nagar Haveli  
   9. Daman & Diu  
   10. Lakshadweep  
-* **Top 10 Districts with the Highest Crimes**:  
+
+### Top 10 Districts with the Highest Crimes  
   1. Murshidabad (West Bengal)  
   2. 24 Parganas South (West Bengal)  
   3. 24 Parganas North (West Bengal)  
