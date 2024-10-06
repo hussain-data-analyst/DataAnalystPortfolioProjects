@@ -107,7 +107,7 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 ## Contact Me
 I’m always open to networking and discussing new opportunities. Let’s connect!  
 - [LinkedIn](https://www.linkedin.com/in/hussain-s-149253250?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu4XzMIKUS0mzN%2B0FdFCcxQ%3D%3D)  
-- [Email Me](hussain88127@gmail.com)
+- 📧 [Email Me](mailto:hussain88127@gmail.com)
 - [GitHub](#)  
   
 ---
