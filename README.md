@@ -21,28 +21,14 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 ---
 
 ## Certifications
-- **Data Analytics Virtual Internship**  
-  Hands-on experience in **data cleaning**, **visualization**, and **analysis** using **Python**, **SQL**, and **Tableau**.
+- [Power BI and Tableau for Data Visualization](https://www.udemy.com/certificate/UC-75ec4235-088e-4f42-b7e6-27bcbae24f6e/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+- [SQL for Data Science with R](https://www.coursera.org/account/accomplishments/records/LNVAC37YC9GY)
+- [Microsoft Excel - Beginner to Advance with Example](https://www.udemy.com/certificate/UC-a67b5030-42b6-4a56-ba65-d65b60699708/)
+- [AI and International Trade](https://www.udemy.com/certificate/UC-60a59f44-4d0d-4b2a-aff5-ca4a18abf247/)
+- []()
 
 - **Python for Data Science and Machine Learning**  
   Advanced coursework in **Python programming**, **machine learning**, and **data visualization**.
-
-- **Power BI & Tableau for Data Visualization**  
-  Expertise in creating compelling **visual stories** with **Power BI** and **Tableau**.
-
----
-
-## Experience
-- **Student Placement Cell Coordinator**  
-  Jamia Millia Islamia (2023 - Present)  
-  - Spearheaded the coordination of the **placement process** for the **Economics Department**, facilitating connections with recruiters and organizing **job fairs** for over **150 students**.
-  - Managed the **placement database**, streamlining communication between students and employers.
-
-- **Data Analyst Intern**  
-  July - August 2024  
-  - Led an analytical project on **Crimes Against Women (2001-2015)** data, conducting deep dives into **trends** and **correlations**.
-  - Designed interactive **dashboards** using **Tableau** to visualize key insights, enhancing decision-making for stakeholders.
-
 ---
 
 ## Skills
@@ -105,10 +91,23 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ---
 
+## Experience
+- **Student Placement Cell Coordinator**  
+  Jamia Millia Islamia (2023 - Present)  
+  - Spearheaded the coordination of the **placement process** for the **Economics Department**, facilitating connections with recruiters and organizing **job fairs** for over **150 students**.
+  - Managed the **placement database**, streamlining communication between students and employers.
+
+- **Data Analyst Intern**  
+  July - August 2024  
+  - Led an analytical project on **Crimes Against Women (2001-2015)** data, conducting deep dives into **trends** and **correlations**.
+  - Designed interactive **dashboards** using **Tableau** to visualize key insights, enhancing decision-making for stakeholders.
+
+---
+
 ## Contact Me
 I’m always open to networking and discussing new opportunities. Let’s connect!  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/hussain-s-149253250?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu4XzMIKUS0mzN%2B0FdFCcxQ%3D%3D)  
+- [Email Me](hussain88127@gmail.com)
 - [GitHub](#)  
-- [Instagram](#)  
-
+  
 ---
