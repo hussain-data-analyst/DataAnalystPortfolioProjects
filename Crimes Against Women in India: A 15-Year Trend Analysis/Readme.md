@@ -37,7 +37,6 @@ The dataset was sourced from [data.gov.in](https://data.gov.in) and contains cri
   * **Pandas**: Data manipulation.
   * **NumPy**: Handling numerical operations.
   * **Matplotlib** and **Seaborn**: Data visualization.
-* **Tableau**: Interactive dashboards.
 * **Jupyter Notebook**: Used for coding and documenting the project.
 
 ---
@@ -57,9 +56,6 @@ The dataset was sourced from [data.gov.in](https://data.gov.in) and contains cri
 * Created bar charts, line charts, and heatmaps to visualize:
   * Yearly trends for different types of crimes.
   * State-wise and district-wise distribution of crimes.
-
-### 4. **Tableau Dashboards**
-* Developed interactive Tableau dashboards for further exploration of crime trends by state, year, and type of crime.
 
 ---
 
