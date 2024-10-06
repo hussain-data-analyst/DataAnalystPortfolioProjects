@@ -25,7 +25,7 @@ The dataset includes the following features:
 ## Dashboards and KPIs
 
 ### 1. Dashboard 1: Summary
-![Dashboard 1 Summary](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Dashboard%20Summary.png)
+![Dashboard 1 Summary](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Images/Dashboard%20Summary.png)
 This dashboard provides an overview of key metrics:
 
 *   **Total Loan Applications:** The total number of applications and Month-to-Date (MTD) comparisons.
@@ -41,6 +41,7 @@ This dashboard provides an overview of key metrics:
 
 ### 2. Dashboard 2: Overview
 
+![Dashboard 2 Overview](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Images/Dashboard%20Overview.png)
 This dashboard includes visual representations of key loan metrics:
 
 *   **Monthly Trends (Line Chart):** Shows how total loan applications, funded amounts, and amounts received vary over time.
@@ -52,6 +53,7 @@ This dashboard includes visual representations of key loan metrics:
 
 ### 3. Dashboard 3: Details
 
+![Dashboard 3 Details](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Images/Dashboard%20Details.png)
 A detailed view that provides a holistic snapshot of key loan-related metrics, giving users a one-stop interface for in-depth analysis of loan performance, borrower profiles, and more.
 
 ## Tools and Technologies Used
@@ -61,11 +63,12 @@ A detailed view that provides a holistic snapshot of key loan-related metrics, g
 
 ## How to Run the Project
 
-1.  **SQL Queries:**
-    *   Refer to the `SQL_Queries_and_Results.pdf` file in the `/Docs` folder. This PDF contains the SQL commands used for data extraction, along with screenshots of the outputs and explanations.
-2.  **Power BI Dashboard:**
-    *   Open the `.pbix` file in Power BI to view the interactive dashboards.
-    *   Use filters to explore different aspects of the data (e.g., by state, loan term, loan status).
+1. **SQL Queries:**
+    * [SQL QUERY BANK LOAN REPORT.pdf](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/SQL%20QUERY%20BANK%20LOAN%20REPORT.pdf). This PDF contains the SQL commands used for data extraction, along with screenshots of the outputs and explanations.
+
+2. **Power BI Dashboard:**
+    * [Bank Loan_Analysis.pbix](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Bank%20Loan%20Analysis.pbix) . Open it in Power BI to view the interactive dashboards.
+    * Use filters to explore different aspects of the data (e.g., by state, loan term, loan status).
 
 ## Key Insights
 
