@@ -62,9 +62,9 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
    **Glance:**  
 <div style="display: flex; justify-content: space-between;">
   
-<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Screenshot%202024-10-06%20202418.png" alt="Bank Loan Dashboard" width="450" style="display:inline-block; margin-right: 10px;"/>
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Screenshot%202024-10-06%20202418.png" alt="Bank Loan Dashboard" width="400" style="display:inline-block; margin-right: 10px;"/>
 
-<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Screenshot%202024-10-06%20202418.png" alt="Loan KPI Insights" width="450" style="display:inline-block;"/>
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Screenshot%202024-10-06%20202418.png" alt="Loan KPI Insights" width="400" style="display:inline-block;"/>
 
 </div>
 
