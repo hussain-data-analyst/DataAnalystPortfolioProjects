@@ -51,39 +51,42 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ## 🔬 Projects
 
-1. **Bank Loan Report**  
-   - **Description:** A comprehensive analysis of over **38,000 bank loan applications**, providing key insights into total funded amounts, amounts received, and interest rates. The project identifies trends in good vs. bad loans and provides actionable **KPIs** for loan management.  
-   - **Key Technologies:** **SQL Server**, **Power BI**  
-   - **Highlights:**  
-     - Built an interactive **Power BI dashboard** to monitor loan **KPIs**.  
-     - Analyzed the performance of loans, identifying good loan percentages at **86%**.  
-     - Provided recommendations for improving loan recovery rates.  
-   - **View Project**  
-   <!-- Insert screenshot here -->
-
----
-
-2. **Pizza Sales Performance**  
-   - **Description:** This project delves into a **pizza sales dataset** to explore key performance indicators like **total revenue**, **average order value**, and **pizza size/category preferences**. Insights help businesses optimize inventory and marketing strategies.  
-   - **Key Technologies:** **SQL**, **Power BI**  
-   - **Highlights:**  
-     - Analyzed total sales of **49,574 pizzas**, generating **$817,860.05** in revenue.  
-     - Visualized sales trends over time and identified **top 5 best-selling pizzas**.  
-     - Developed two **Power BI dashboards**: **Home Dashboard** and **Best/Worst Sellers Dashboard**.  
-   - **View Project**  
-   <!-- Insert screenshot here -->
-
----
-
-3. **Crimes Against Women Analysis (2001-2015)**  
+1. **Crimes Against Women Analysis (2001-2015)**  
    - **Description:** A detailed examination of **crimes against women** in India, analyzing trends across **15 years** and identifying hotspots at **state** and **district** levels. The project aims to highlight patterns and correlations among different crime types.  
    - **Key Technologies:** **Python**, **Pandas**, **Seaborn**  
    - **Highlights:**  
      - Analyzed crime patterns year-wise and state-wise, uncovering trends in **cruelty by husbands** and **abduction cases**.  
      - Created **correlation heatmaps** to visualize the relationship between different types of crimes.  
      - Identified **top 10 districts** with the highest crimes, such as **Murshidabad (West Bengal)** and **Hyderabad City**.  
-   - **View Project**  
-   <!-- Insert screenshot here -->
+   - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**  
+   **Glance:**  
+     ![Bank Loan Dashboard](link_to_screenshot_1)
+
+---
+
+2. **Bank Loan Report**  
+   - **Description:** A comprehensive analysis of over **38,000 bank loan applications**, providing key insights into total funded amounts, amounts received, and interest rates. The project identifies trends in good vs. bad loans and provides actionable **KPIs** for loan management.  
+   - **Key Technologies:** **SQL Server**, **Power BI**  
+   - **Highlights:**  
+     - Built an interactive **Power BI dashboard** to monitor loan **KPIs**.  
+     - Analyzed the performance of loans, identifying good loan percentages at **86%**.  
+     - Provided recommendations for improving loan recovery rates.  
+   - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment)**  
+   **Glance:**  
+     ![Bank Loan Dashboard](link_to_screenshot_1) 
+
+---
+
+3. **Pizza Sales Performance**  
+   - **Description:** This project delves into a **pizza sales dataset** to explore key performance indicators like **total revenue**, **average order value**, and **pizza size/category preferences**. Insights help businesses optimize inventory and marketing strategies.  
+   - **Key Technologies:** **SQL**, **Power BI**  
+   - **Highlights:**  
+     - Analyzed total sales of **49,574 pizzas**, generating **$817,860.05** in revenue.  
+     - Visualized sales trends over time and identified **top 5 best-selling pizzas**.  
+     - Developed two **Power BI dashboards**: **Home Dashboard** and **Best/Worst Sellers Dashboard**.  
+   - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%233%20-%20Pizza%20Sales%20Performance)**  
+   **Glance:**  
+     ![Bank Loan Dashboard](link_to_screenshot_1) 
 
 ---
 
