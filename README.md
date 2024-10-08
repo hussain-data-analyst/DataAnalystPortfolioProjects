@@ -60,7 +60,13 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
      - Identified **top 10 districts** with the highest crimes, such as **Murshidabad (West Bengal)** and **Hyderabad City**.  
    - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**  
    **Glance:**  
-     ![Bank Loan Dashboard](link_to_screenshot_1)
+<div style="display: flex; justify-content: space-between;">
+  
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Screenshot%202024-10-06%20202418.png" alt="Bank Loan Dashboard" width="450" style="display:inline-block; margin-right: 10px;"/>
+
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Screenshot%202024-10-06%20202418.png" alt="Loan KPI Insights" width="450" style="display:inline-block;"/>
+
+</div>
 
 ---
 
@@ -73,7 +79,9 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
      - Provided recommendations for improving loan recovery rates.  
    - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment)**  
    **Glance:**  
-     ![Bank Loan Dashboard](link_to_screenshot_1) 
+     ![Bank Loan Dashboard](link_to_screenshot_1)
+     
+
 
 ---
 
@@ -86,7 +94,8 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
      - Developed two **Power BI dashboards**: **Home Dashboard** and **Best/Worst Sellers Dashboard**.  
    - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%233%20-%20Pizza%20Sales%20Performance)**  
    **Glance:**  
-     ![Bank Loan Dashboard](link_to_screenshot_1) 
+     ![Bank Loan Dashboard](link_to_screenshot_1)
+
 
 ---
 
@@ -110,7 +119,7 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 ## Contact Me
 I’m always open to networking and discussing new opportunities. Let’s connect!  
 - [LinkedIn](https://www.linkedin.com/in/hussain-s-149253250?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu4XzMIKUS0mzN%2B0FdFCcxQ%3D%3D)  
-- 📧 [Email Me](mailto:hussain88127@gmail.com)
+- [Email Me](mailto:hussain88127@gmail.com)
 - [GitHub](#)  
   
 ---
