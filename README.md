@@ -1,4 +1,4 @@
-# Hussain's Data Science & Analytics Portfolio
+# Hussain's Data Analytics Portfolio
 
 **Welcome to my portfolio!** I'm excited to share the projects I've worked on and the skills I've gained through my journey in **Data Science** and **Analytics**.
 
@@ -10,7 +10,16 @@ I am a highly motivated **Data Science** and **Analytics** enthusiast, currently
 I’m actively seeking **internships** or **job opportunities** where I can leverage my skills to make a meaningful impact and continue growing in a collaborative, learning environment.
 
 ---
+## Table of Contents
 
+1. [About Me](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#about-me)
+2. [Education](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#education)
+3. [Certifications](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#certifications)
+4. [Skills](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#skills)
+5. [Projects](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#-projects)
+6. [Experience](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#experience)
+7. [Contact Me](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/edit/main/README.md#contact-me)
+---
 ## Education
 - **MSc in Banking and Financial Analytics**  
   Jamia Millia Islamia, New Delhi (2023 - Present)
@@ -46,18 +55,36 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ## 🔬 Projects
 
-1. **Crimes Against Women Analysis (2001-2015)**
+### 1\. **Crimes Against Women Analysis (2001-2015)**
 
-- **Description:** A detailed examination of **crimes against women** in India, analyzing trends across **15 years** and identifying hotspots at **state** and **district** levels. The project aims to highlight patterns and correlations among different crime types.
- 
-- **Key Technologies:** **Python**, **Pandas**, **Seaborn**
-  
-- **Highlights:**  
-     - Analyzed crime patterns year-wise and state-wise, uncovering trends in **cruelty by husbands** and **abduction cases**.  
-     - Created **correlation heatmaps** to visualize the relationship between different types of crimes.  
-     - Identified **top 10 districts** with the highest crimes, such as **Murshidabad (West Bengal)** and **Hyderabad City**.  
-   - **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**  
-   **Glance:**  
+#### 🎯 **Goal**
+
+Uncover crime patterns and hotspots across India over 15 years to support policy-making and improve safety measures for women.
+
+#### 📝 **Description**
+
+This analysis explores **trends in crimes against women** across states and districts from 2001 to 2015. It identifies hotspots, patterns, and correlations among different crime types, offering valuable insights.
+
+#### 🛠️ **Skills**
+
+*   **Exploratory Data Analysis (EDA)**,**Visualization**,**Statistical Insights**
+
+#### 💻 **Key Technologies**
+
+*   **Programming Language**: Python
+*   **Libraries**: Pandas,matplotlib, Seaborn
+
+#### ✨ **Highlights**
+
+*   Identified **top 10 districts** with highest crimes, such as **Murshidabad** and **Hyderabad City**.
+*   Created **correlation heatmaps** to visualize relationships among crime types.
+*   Provided **recommendations** for stakeholders on emerging crime trends.
+
+#### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**
+
+
+#### 📷 **Visual Insights**
+
 <div style="display: flex; justify-content: space-between;">
   
 <img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/img1.png" alt="Bank Loan Dashboard" width="400" style="display:inline-block; margin-right: 10px;"/>
@@ -68,20 +95,35 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ---
 
-2. **Bank Loan Report**
-   
-- **Description:** A comprehensive analysis of over **38,000 bank loan applications**, providing key insights into total funded amounts, amounts received, and interest rates. The project identifies trends in good vs. bad loans and provides actionable **KPIs** for loan management.  
+### 2\. **Bank Loan Report**
 
-- **Key Technologies:** **SQL Server**, **Power BI**  
+#### 🎯 **Goal**
 
-- **Highlights:**  
-  - Built an interactive **Power BI dashboard** to monitor loan **KPIs**.
-  - Analyzed the performance of loans, identifying good loan percentages at **86%**.
-  - Provided recommendations for improving loan recovery rates.
-    
-**[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment)**  
+Analyze loan applications to assess loan quality, interest rates, and recovery trends, providing insights for improving loan management strategies.
 
-   **Glance:**  
+#### 📝 **Description**
+
+A deep dive into **38,576 loan applications**, examining key metrics such as total funded amounts, loan performance, and interest rates. This analysis distinguishes between good and bad loans to offer actionable insights for banks.
+
+#### 🛠️ **Skills**
+
+*   **Data Analysis**,**Visualization**,**Dashboards**,**Reporting**
+
+#### 💻 **Key Technologies**
+
+*   **Database**: SQL Server
+*   **Visualization Tool**: Power BI
+
+#### ✨ **Highlights**
+
+*   Created an interactive **Power BI dashboard** to monitor KPIs.
+*   Identified **86% of loans** as good and recommended recovery strategies.
+*   Tracked monthly trends in funded and received amounts.
+
+#### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment)**
+
+#### 📷 **Visual Insights**
+  
 <div style="display: flex; justify-content: space-between;">
   
 <img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment/Images/Image1.png" alt="Bank Loan Dashboard" width="400" style="display:inline-block; margin-right: 10px;"/>
@@ -94,20 +136,36 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ---
 
-3. **Pizza Sales Performance**
-   
-- **Description:** This project delves into a **pizza sales dataset** to explore key performance indicators like **total revenue**, **average order value**, and - - **pizza size/category preferences**. Insights help businesses optimize inventory and marketing strategies. 
+### 3\. **Pizza Sales Performance**
 
-- **Key Technologies:** **SQL**, **Power BI**  
+#### 🎯 **Goal**
 
-- **Highlights:**  
-  - Analyzed total sales of **49,574 pizzas**, generating **$817,860.05** in revenue.  
-  - Visualized sales trends over time and identified **top 5 best-selling pizzas**.  
-  - Developed two **Power BI dashboards**: **Home Dashboard** and **Best/Worst Sellers Dashboard**.
-   
-**[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%233%20-%20Pizza%20Sales%20Performance)**  
+Analyze pizza sales data to explore sales trends, product performance, and customer preferences, supporting businesses in optimizing marketing strategies.
 
-**Glance:**
+#### 📝 **Description**
+
+This project dives into **pizza sales metrics** to uncover KPIs like total revenue, average order value, and top-selling pizzas. It provides insights into **customer preferences by size and category** and helps improve business operations.
+
+#### 🛠️ **Skills**
+
+*   **Data Analysis**: SQL for data querying
+*   **Visualization**: Interactive Power BI dashboards
+*   **Optimization**: Identifying best and worst sellers
+
+#### 💻 **Key Technologies**
+
+*   **Database**: SQL Server
+*   **Visualization Tool**: Power BI
+
+#### ✨ **Highlights**
+
+*   Sold **49,574 pizzas**, generating **$817,860** in revenue.
+*   Visualized **daily and monthly sales trends**.
+*   🖥Created two dashboards: **Home Dashboard** and **Best/Worst Sellers Dashboard**.
+
+#### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%233%20-%20Pizza%20Sales%20Performance)**
+
+#### 📷 **Visual Insights**
  
 <div style="display: flex; justify-content: space-between;">
   
@@ -120,20 +178,20 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ---
 
-**More projects coming soon!**
+#### **✨ More projects coming soon!**
 
 ---
 
 ## Experience
+
+- **Data Analyst Intern at IBM**   
+  July - August 2024  
+  - Led an analytical project on **Crimes Against Women (2001-2015)** data, conducting deep dives into **trends** and **correlations**.
+
 - **Student Placement Cell Coordinator**  
   Jamia Millia Islamia (2023 - Present)  
   - Spearheaded the coordination of the **placement process** for the **Economics Department**, facilitating connections with recruiters and organizing **job fairs** for over **150 students**.
   - Managed the **placement database**, streamlining communication between students and employers.
-
-- **Data Analyst Intern**  
-  July - August 2024  
-  - Led an analytical project on **Crimes Against Women (2001-2015)** data, conducting deep dives into **trends** and **correlations**.
-  
 
 ---
 
