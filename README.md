@@ -12,13 +12,13 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 ---
 ## Table of Contents
 
-1. [About Me](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#about-me)
-2. [Education](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#education)
-3. [Certifications](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#certifications)
-4. [Skills](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#skills)
-5. [Projects](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#-projects)
-6. [Experience](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#experience)
-7. [Contact Me](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/main/README.md#contact-me)
+1. [About Me](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#about-me)
+2. [Education](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#education)
+3. [Certifications](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#certifications)
+4. [Skills](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#skills)
+5. [Projects](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#-projects)
+6. [Experience](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#experience)
+7. [Contact Me](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/README.md#contact-me)
 ---
 ## Education
 - **MSc in Banking and Financial Analytics**  
