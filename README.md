@@ -67,7 +67,7 @@ This analysis explores **trends in crimes against women** across states and dist
 
 #### 🛠️ **Skills**
 
-*   **Exploratory Data Analysis (EDA)**,**Visualization**,**Statistical Insights**
+*   Exploratory Data Analysis (EDA), Visualization, Statistical Insights
 
 #### 💻 **Key Technologies**
 
