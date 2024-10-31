@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes crime data from 2001 to 2015, focusing on crimes against women across different states and districts in India. The aim is to uncover trends and patterns in various types of crimes, such as **Rape**, **Kidnapping and Abduction**, **Dowry Deaths**, and more. Insights were drawn using Python for data analysis and visualization, and Tableau was used for interactive dashboards.
+This project analyzes crime data from 2001 to 2015, focusing on crimes against women across different states and districts in India. The aim is to uncover trends and patterns in various types of crimes, such as **Rape**, **Kidnapping and Abduction**, **Dowry Deaths**, and more. Insights were drawn using Python for data analysis and visualization.
 
 ### Objectives
 * Conduct year-wise analysis to observe trends and patterns in crimes against women over the years 2001-2015.
