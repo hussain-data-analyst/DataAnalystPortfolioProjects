@@ -5,9 +5,14 @@
 ---
 
 ## About Me
-I am a highly motivated **Data Science** and **Analytics** enthusiast, currently pursuing an **MSc in Banking and Financial Analytics** at **Jamia Millia Islamia, New Delhi**. With a strong foundation in **Mathematics** and a passion for data-driven problem-solving, I am committed to uncovering actionable insights through innovative solutions. My key strengths lie in **data analysis**, **visualization**, and **machine learning**, which I've applied across various real-world projects.
+# Hussain's Profile
+
+I am a highly motivated **Data Science and Analytics enthusiast**, currently pursuing an **MSc in Banking and Financial Analytics** at **Jamia Millia Islamia**, New Delhi. With a **B.Sc. (Hons) in Mathematics** from the **University of Delhi** and a strong proficiency in **Mathematics and Statistics**, I have a solid foundation in quantitative analysis. 
+
+I have worked on multiple **projects through internships and personal projects**, applying **data analysis, visualization**, and **machine learning** techniques to solve real-world problems. I am passionate about **data-driven problem-solving** and committed to uncovering **actionable insights** through innovative solutions.
 
 I’m actively seeking **internships** or **job opportunities** where I can leverage my skills to make a meaningful impact and continue growing in a collaborative, learning environment.
+
 
 ---
 ## Table of Contents
