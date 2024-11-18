@@ -86,7 +86,7 @@ Scraped and analyzed 3,000 customer reviews from Skytrax for British Airways, ap
 
 
 #### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**
-
+#### 🔗 **[Jupyter Notebook]()**
 
 #### 📷 **Visual Insights**
 
@@ -127,7 +127,7 @@ This analysis explores **trends in crimes against women** across states and dist
 *   Provided **recommendations** for stakeholders on emerging crime trends.
 
 #### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**
-
+#### 🔗 **[Jupyter Notebook]()**
 
 #### 📷 **Visual Insights**
 
@@ -141,7 +141,7 @@ This analysis explores **trends in crimes against women** across states and dist
 
 ---
 
-### 2\. **Bank Loan Report**
+### 3\. **Bank Loan Report**
 
 #### 🎯 **Goal**
 
@@ -167,7 +167,7 @@ A deep dive into **38,576 loan applications**, examining key metrics such as tot
 *   Tracked monthly trends in funded and received amounts.
 
 #### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%232%20-%20Bank%20Loan%20Portfolio%20Assessment)**
-
+#### 🔗 **[Jupyter Notebook]()**
 #### 📷 **Visual Insights**
   
 <div style="display: flex; justify-content: space-between;">
@@ -182,7 +182,7 @@ A deep dive into **38,576 loan applications**, examining key metrics such as tot
 
 ---
 
-### 3\. **Pizza Sales Performance**
+### 4\. **Pizza Sales Performance**
 
 #### 🎯 **Goal**
 
@@ -210,6 +210,7 @@ This project dives into **pizza sales metrics** to uncover KPIs like total reven
 *   🖥Created two dashboards: **Home Dashboard** and **Best/Worst Sellers Dashboard**.
 
 #### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Proj%233%20-%20Pizza%20Sales%20Performance)**
+#### 🔗 **[Jupyter Notebook]()**
 
 #### 📷 **Visual Insights**
  
