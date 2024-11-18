@@ -86,7 +86,7 @@ Scraped and analyzed 3,000 customer reviews from Skytrax for British Airways, ap
 
 
 #### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**
-#### 🔗 **[Jupyter Notebook]()**
+#### 🔗 **[Jupyter Notebook](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Sentiment%20Analysis%20of%20British%20Airways%20Customer%20Reviews%20for%20Ser/Sentiment%20Analysis%20of%20British%20Airways.ipynb)**
 
 #### 📷 **Visual Insights**
 
