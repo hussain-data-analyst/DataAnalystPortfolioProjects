@@ -92,9 +92,9 @@ Scraped and analyzed 3,000 customer reviews from Skytrax for British Airways, ap
 
 <div style="display: flex; justify-content: space-between;">
   
-<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/img1.png" alt="Bank Loan Dashboard" width="400" style="display:inline-block; margin-right: 10px;"/>
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Sentiment%20Analysis%20of%20British%20Airways%20Customer%20Reviews%20for%20Ser/british%20review%201.png" alt="Bank Loan Dashboard" width="400" style="display:inline-block; margin-right: 10px;"/>
 
-<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Img2.png" alt="Loan KPI Insights" width="400" style="display:inline-block;"/>
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Sentiment%20Analysis%20of%20British%20Airways%20Customer%20Reviews%20for%20Ser/british%20review%202.png" alt="Loan KPI Insights" width="400" style="display:inline-block;"/>
 
 </div>
 
