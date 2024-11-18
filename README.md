@@ -55,7 +55,53 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 
 ## 🔬 Projects
 
-### 1\. **Crimes Against Women Analysis (2001-2015)**
+### 1\. **Sentiment Analysis of British Airways Customer Reviews for Service Improvement**
+
+#### 🎯 **Goal**
+
+The goal of this project is to analyze customer sentiment from 3,000 British Airways reviews, classify them into positive, negative, and neutral categories, and provide actionable insights to improve customer satisfaction. The project aims to apply machine learning techniques to understand customer concerns and enhance service quality.
+
+#### 📝 **Description**
+
+Scraped and analyzed 3,000 customer reviews from Skytrax for British Airways, applying sentiment analysis to classify reviews into positive, negative, and neutral categories with 84% accuracy. Performed extensive data cleaning, feature engineering, and exploratory data analysis (EDA) to uncover key insights on customer sentiment and service issues. Addressed class imbalance using resampling techniques, including Random UnderSampling, Random OverSampling, and SMOTE. Developed and evaluated machine learning models such as Logistic Regression, Random Forest, and Naive Bayes, providing actionable insights to improve customer experience by highlighting concerns like delays, service quality, and comfort.
+
+#### 🛠️ **Skills**
+
+*   Exploratory Data Analysis (EDA), Visualization, Machine Learning, NLP, Sentimental Analysis
+
+#### 💻 **Key Technologies**
+
+*   **Programming Language**: Python
+*   **Libraries**: Pandas,matplotlib, Seaborn, scikit-learn
+
+#### ✨ **Highlights**
+
+* **Sentiment Distribution**:
+* **23.7% Positive**: Customers appreciated comfortable seats, friendly crew, and smooth in-flight experience.
+* **65.5% Negative**: Common complaints included delays, poor customer service, and subpar business class experiences.
+* **10.8% Neutral**: Neutral reviews often discussed non-emotional aspects of the flight experience.
+* **Key Insights**:
+   - Positive reviews often mentioned aspects like comfort and crew service.
+   - Negative reviews were primarily related to delays and dissatisfaction with customer service and cabin crew.
+
+
+#### 🔗 **[View Project](https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/tree/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis)**
+
+
+#### 📷 **Visual Insights**
+
+<div style="display: flex; justify-content: space-between;">
+  
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/img1.png" alt="Bank Loan Dashboard" width="400" style="display:inline-block; margin-right: 10px;"/>
+
+<img src="https://github.com/hussain-data-analyst/DataAnalystPortfolioProjects/blob/main/Crimes%20Against%20Women%20in%20India%3A%20A%2015-Year%20Trend%20Analysis/Images/Img2.png" alt="Loan KPI Insights" width="400" style="display:inline-block;"/>
+
+</div>
+
+---
+
+
+### 2\. **Crimes Against Women Analysis (2001-2015)**
 
 #### 🎯 **Goal**
 
