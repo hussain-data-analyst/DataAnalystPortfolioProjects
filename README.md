@@ -35,11 +35,11 @@ I’m actively seeking **internships** or **job opportunities** where I can leve
 ---
 
 ## Certifications
-- [Power BI and Tableau for Data Visualization](https://www.udemy.com/certificate/UC-75ec4235-088e-4f42-b7e6-27bcbae24f6e/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+- [Power BI and Tableau for Data Visualization](https://www.udemy.com/certificate/UC-75ec4235-088e-4f42-b7e6-27bcbae24f6e/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) [IBM]
 - [SQL for Data Science with R](https://www.coursera.org/account/accomplishments/records/LNVAC37YC9GY)
 - [Microsoft Excel - Beginner to Advance with Example](https://www.udemy.com/certificate/UC-a67b5030-42b6-4a56-ba65-d65b60699708/)
 - [AI and International Trade](https://www.udemy.com/certificate/UC-60a59f44-4d0d-4b2a-aff5-ca4a18abf247/)
-- []()
+- [Mastering Data with Machine Learning](https://github.com/hussain-data-analyst/Certifications-And-Courses/blob/main/Completion%20Certificate%20- %20%20IBM%20SkillsBuild%20AI%20ML%20Internship.pdf) [IBM]
 
 - **Python for Data Science and Machine Learning**  
   Advanced coursework in **Python programming**, **machine learning**, and **data visualization**.
